@@ -1,6 +1,12 @@
 # ontologyanalyzer
 
 a ontology analyzer python package for the genome annotations, web mining and also for the graph implementation on the ontologies.
+- domain graphs
+- link graphs
+- semantic web
+- tokensizer
+- cluster of bags
+- visulization using the max and min heap tree
 
 ## Installation
 
