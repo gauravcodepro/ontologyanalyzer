@@ -1,26 +1,18 @@
 # ontologyanalyzer
 
 a ontology analyzer python package for the genome annotations, web mining and also for the graph implementation on the ontologies.
-- domain graphs
-- link graphs
-- semantic web
-- tokensizer
-- cluster of bags
-- visulization using the max and min heap tree
+- domains - completed 
+- arabidopsis ontologies - completed
+- ontology enrichment - writing code 
+- jsonontologies - writing code
+- linkml modeling - writing code
+- graphview - writing code
 
 ## Installation
 
 ```bash
 $ pip install ontologyanalyzer
 ```
-
-## Usage
-
-- TODO
-
-## Contributing
-
-Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
 ## License
 
