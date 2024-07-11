@@ -1,6 +1,6 @@
 # ontologyanalyzer
 
-a ontology analyzer python package for the genome annotations, web mining and also for the graph implementation on the ontologies.
+- a ontology analyzer python package for the genome annotations, web mining and also for the graph implementation on the ontologies.
 - domains - completed 
 - arabidopsis ontologies - completed
 - ontology enrichment - writing code 
@@ -13,18 +13,10 @@ a ontology analyzer python package for the genome annotations, web mining and al
 ```bash
 $ pip install ontologyanalyzer
 ```
-
 ## License
-
 `ontologyanalyzer` was created by Gaurav Sablok. It is licensed under the terms of the MIT license.
 
 ## Credits
-
 `ontologyanalyzer` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
-University of Potsdam \
-Potsdam,Germany
+Gaurav 
